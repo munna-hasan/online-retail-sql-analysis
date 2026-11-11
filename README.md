@@ -32,5 +32,11 @@ Performed analysis on:
 - Performed country-wise sales analysis to identify market trends
 ## Project Files
 
-- Online_Retail_SQL_Analysis_Report.pdf
-- online_retail_analysis.sql
+- [Latest case study report (PDF)](Online_Retail_SQL_Analysis_Report.pdf)
+- [Existing SQL script](online_retail_analysis.sql)
+
+## Project Visuals
+
+- [Project overview](retail-overview.png)
+- [Analysis workflow](retail-workflow.png)
+- [Results and insights](retail-results.png)
